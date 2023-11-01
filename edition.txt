@@ -2,4 +2,5 @@ first edition
 second edition
 third edition
 isuue resolved
-hotfix my solution
+HOTfix team`s solution
+
